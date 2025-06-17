@@ -1,0 +1,6 @@
+# Ignore terraform local state files
+terraform.tfstate
+terraform.tfstate.backup
+
+# Ignore terraform plugin directory
+.terraform/
