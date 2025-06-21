@@ -47,8 +47,7 @@ Below is the high-level architecture of the system:
 
 \| User | → | Terraform | → | AWS (S3, IAM) | → | Static Website Hosted |
 
-
-[Architecture Diagram](architecture2.png)
+![Architecture Diagram](architecture2.png)
 
 ---
 ## ⚙️ How to Deploy
